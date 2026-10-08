@@ -1,0 +1,6 @@
+{
+  "name": "RizAI",
+  "description": "Smart Bangla voice assistant with phone control via AccessibilityService, online AI reasoning, and offline speech capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
